@@ -21,7 +21,7 @@ example of call: localhost:8080/clients
 - name;
 - email;
 - cpf;
-- dateOfbirth;
+- dateOfBirth;
 
 **There is little data validation in this call. I will list two of them:**
 
