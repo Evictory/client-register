@@ -11,7 +11,7 @@ This is an API made using the following techs:
 ## What you’ll need
 To use it, you just need to clone this repository and have the Java Development Kit (JDK) 8 +
 
-##After all, what is it?
+## After all, what is it?
 
 This application will listen to your host constantly. If you use the HTTP POST method considering the endpoint **/clients**, you will see the response for that call.
 
